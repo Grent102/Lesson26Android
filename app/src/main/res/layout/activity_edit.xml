@@ -80,6 +80,14 @@
                 android:hint="Descriprion"
                 android:inputType="textPersonName"
                 tools:ignore="TouchTargetSizeCheck" />
+
+            <Button
+                android:id="@+id/btDone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:text="Done" />
         </LinearLayout>
     </androidx.cardview.widget.CardView>
 
